@@ -1,0 +1,14 @@
+Problem 0
+1. See "105022469_problem0.cpp".
+2. See the running result of "105022469_problem0.exe".
+3. See the running result of "105022469_problem0.exe".
+4. Yes. As the number of trials increases, the magnitude (absolute value) of the differences between the number of times a given side occurs and one-sixth of the number of trials increases.
+5. Yes. As I increase the number of trials, the ratio of the number of times each side occurs to the total number of trials approaches closer to 1/6.
+
+Problem 1
+1. Theoretical mean = (S+1)/2
+   Theoretical variance = (S^2-1)/12
+   Theoretical standard deviation = sqrt((S^2-1)/12)
+2. See "105022469_problem1.cpp".
+3. See the running result of "105022469_problem1.exe". The results for the mean, variance, and standard deviation are consistent with my predictions.
+4. See the running result of "105022469_problem1.exe". In my result it's roughly 1000 times.
